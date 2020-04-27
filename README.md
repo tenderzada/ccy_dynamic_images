@@ -1,4 +1,4 @@
-# ccy_dynamic_image 
+# ccy_dynamic_image [![Version][version-badge]][version-link] ![MIT License][license-badge]
 
 
 Add dynamic effect to image
@@ -37,3 +37,9 @@ $ pip install ccy_dynamic_image
 
 
 ### License
+
+[MIT](https://github.com/tenderzada/ccy_dynamic_images/master/LICENSE)
+
+
+[version-badge]:   https://img.shields.io/badge/version-0.1-brightgreen.svg
+[license-badge]:   https://img.shields.io/github/license/ccy_dynamic_image/ccy_dynamic_images.svg
