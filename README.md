@@ -1,4 +1,4 @@
-# ccy_dynamic_image [![Version][version-badge]][version-link] ![MIT License][license-badge]
+# ccy_dynamic_image
 
 
 Add dynamic effect to image
@@ -10,11 +10,11 @@ Add dynamic effect to image
 
 原图
 
-![](./orig.jpeg)
+![](https://github.com/tenderzada/ccy_dynamic_images/blob/master/orig.jpeg?raw=true)
 
 转换后的代码图片
 
-![](./out.jpeg)
+![](https://github.com/tenderzada/ccy_dynamic_images/blob/master/out.jpeg?raw=true)
 
 
 ### 使用方式
@@ -35,11 +35,3 @@ optional arguments:
 $ pip install ccy_dynamic_image
 ```
 
-
-### License
-
-[MIT](https://github.com/tenderzada/ccy_dynamic_images/master/LICENSE)
-
-
-[version-badge]:   https://img.shields.io/badge/version-0.1-brightgreen.svg
-[license-badge]:   https://img.shields.io/github/license/ccy_dynamic_image/ccy_dynamic_images.svg
