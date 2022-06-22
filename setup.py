@@ -14,7 +14,7 @@ setup(
     author_email='chenjiao@mail.ynu.edu.com',
     url='https://github.com/tenderzada/ccy_dynamic_images',
     packages=setuptools.find_packages(),
-    install_requires=['Pillow>=7.0.0', 'numpy==1.16.2'],
+    install_requires=['Pillow>=7.0.0', 'numpy==1.22.0'],
     classifiers=(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
